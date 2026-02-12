@@ -2,8 +2,15 @@
 Detect smoke with the help of IOT data and trigger a fire alarm.
 
 ## how to use ?
+**Option 1: Colab**
 just click on notebook-> open in colab button
 then run all
+
+**Option 2: Local**
+1. Create a virtual environment (optional but recommended).
+2. Install dependencies: `pip install -r requirements.txt`
+3. Launch Jupyter: `jupyter lab`
+4. Open `smoke_detection_iot.ipynb` and run all cells.
 
 ## about project
 A smoke detector is a device that senses smoke, typically as an indicator of fire. Smoke detectors are usually housed in plastic enclosures, typically shaped like a disk about 150 millimetres (6 in) in diameter and 25 millimetres (1 in) thick, but shape and size vary.
