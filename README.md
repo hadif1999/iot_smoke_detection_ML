@@ -34,3 +34,5 @@ Indoor gas fire, firefighter training area
 Outdoor wood, coal, and gas grill
 Outdoor high humidity
 etc.
+
+Dataset link: https://www.kaggle.com/datasets/deepcontractor/smoke-detection-dataset
