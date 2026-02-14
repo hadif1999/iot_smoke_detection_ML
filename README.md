@@ -5,6 +5,8 @@ Detect smoke with the help of IOT data and trigger a fire alarm.
 **Option 1: Colab**
 just click on notebook-> open in colab button
 then run all
+**google colab link**:
+https://colab.research.google.com/github/hadif1999/iot_smoke_detection_ML/blob/main/smoke_detection_iot.ipynb
 
 **Option 2: Local**
 1. Create a virtual environment (optional but recommended).
