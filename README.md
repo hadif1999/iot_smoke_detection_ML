@@ -9,7 +9,7 @@ then run all
 https://colab.research.google.com/github/hadif1999/iot_smoke_detection_ML/blob/main/smoke_detection_iot.ipynb
 
 **Option 2: Local**
-1. Create a virtual environment (optional but recommended).
+1. clone project and Create a virtual environment, e.g python3 -m venv venv (optional but recommended).
 2. Install dependencies: `pip install -r requirements.txt`
 3. Launch Jupyter: `jupyter lab`
 4. Open `smoke_detection_iot.ipynb` and run all cells.
